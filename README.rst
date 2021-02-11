@@ -119,11 +119,8 @@ Get/setup repo
 
 .. code:: bash
 
-    git clone --recursive https://github.com/WiringPi/WiringPi-Python.git
-    cd WiringPi-Python
-
-Don't forget the ``--recursive``; it is required to also pull in the
-WiringPi C code from its own repository.
+    git clone https://github.com/Simonefardella/WiringPi-Python-Mod.git
+    cd WiringPi-Python-Mod
 
 Prerequisites
 -------------
